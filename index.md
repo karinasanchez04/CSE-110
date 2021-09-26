@@ -19,7 +19,7 @@ I am from `Oxnard, California` and also attended `Ventura College`. A fun fact a
 
 __links__  
 [link to UCSD website](https://ucsd.edu)  
-[link to my cse 135 site](https://kcs4.dev)   
+[link to github repo](https://github.com/karinasanchez04/CSE-110)   
 
 __relative links__  
 [link to readme](README.md)  
