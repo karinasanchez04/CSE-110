@@ -13,15 +13,15 @@
 
 I am from `Oxnard, California` and also attended `Ventura College`. A fun fact about me is that my favorite animals are *turtles*. **I graduate from _UCSD_ in _Spring 2022_.**
 
-__links__
-[link to my website for cse 135](https://kcs4.dev)
+__links__  
+[link to UCSD website](https://ucsd.edu)  
 
-__relative links__
-[link to readme](README.md)
+__relative links__  
+[link to readme](README.md)    
 
 __section links__
-[go to about me](#about-me)
-[go to top of page](#karina-sanchez-user-page)
+[go to about me](#about-me)  
+[go to top of page](#karina-sanchez-user-page)  
 
 #### My Hobbies
 - painting
@@ -32,6 +32,7 @@ __section links__
 1. Java
 2. HTML
 3. C++
+4. Python
 
 #### Goals for the future
 - [x] Build an app
