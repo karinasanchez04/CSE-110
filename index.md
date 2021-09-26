@@ -19,7 +19,7 @@ __links__
 __relative links__  
 [link to readme](README.md)    
 
-__section links__
+__section links__  
 [go to about me](#about-me)  
 [go to top of page](#karina-sanchez-user-page)  
 
